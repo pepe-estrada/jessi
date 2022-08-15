@@ -1,0 +1,15 @@
+/mnt/c/Users/pepit/jessi/bin/Debug/net6.0/jessi
+/mnt/c/Users/pepit/jessi/bin/Debug/net6.0/jessi.deps.json
+/mnt/c/Users/pepit/jessi/bin/Debug/net6.0/jessi.runtimeconfig.json
+/mnt/c/Users/pepit/jessi/bin/Debug/net6.0/jessi.dll
+/mnt/c/Users/pepit/jessi/bin/Debug/net6.0/jessi.pdb
+/mnt/c/Users/pepit/jessi/obj/Debug/net6.0/jessi.csproj.AssemblyReference.cache
+/mnt/c/Users/pepit/jessi/obj/Debug/net6.0/jessi.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/pepit/jessi/obj/Debug/net6.0/jessi.AssemblyInfoInputs.cache
+/mnt/c/Users/pepit/jessi/obj/Debug/net6.0/jessi.AssemblyInfo.cs
+/mnt/c/Users/pepit/jessi/obj/Debug/net6.0/jessi.csproj.CoreCompileInputs.cache
+/mnt/c/Users/pepit/jessi/obj/Debug/net6.0/jessi.dll
+/mnt/c/Users/pepit/jessi/obj/Debug/net6.0/refint/jessi.dll
+/mnt/c/Users/pepit/jessi/obj/Debug/net6.0/jessi.pdb
+/mnt/c/Users/pepit/jessi/obj/Debug/net6.0/jessi.genruntimeconfig.cache
+/mnt/c/Users/pepit/jessi/obj/Debug/net6.0/ref/jessi.dll
